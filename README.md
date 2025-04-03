@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">A passionate developer from Italy</h3>
 
-- 🔭 I’m currently working on **Project Calisthenics.**
+- 🔭 I’m currently working on **To-Do List.**
 
 - 🌱 I’m currently learning **JavaScript, Python.**
 
